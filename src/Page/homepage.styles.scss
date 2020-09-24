@@ -3,7 +3,7 @@
   flex-direction: column;
   align-items: center;
   padding: 20px 80px;
-}
+
 
 .directory-menu {
   width: 100%;
@@ -22,6 +22,10 @@
   border: 1px solid black;
   margin: 0 7.5px 15px;
 
+  &.large{
+    size: large;
+  }
+  
   &:first-child {
     margin-right: 7.5px;
   }
@@ -51,4 +55,4 @@
       font-size: 14px;
     }
   }
-}
+}}
