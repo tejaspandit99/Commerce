@@ -10,7 +10,7 @@ const Menu =({ title,imageUrl,size}) =>
             
         <div className="content">
     <h1 className="tittle">{title.toUpperCase()}</h1>
-    <span className="subtitles">Buy for free</span>
+    <span className="subtitles">Buy now</span>
      </div>
 </div>
 
