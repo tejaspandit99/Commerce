@@ -16,7 +16,7 @@ const Hatspage= (props) => (
 function App() {
  return(
   <div>
-  <Route exact path="/" component={Homepage}></Route>
+  <Route  path="/" component={Homepage}></Route>
   <Route path="/hats" component={Hatspage}></Route>
   
   </div>
