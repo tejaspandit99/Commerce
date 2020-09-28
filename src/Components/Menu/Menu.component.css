@@ -19,9 +19,7 @@
   overflow: hidden;
 }
 
-.menu-item.Large {
-  height: 380px;
-}
+
 
 .menu-item:first-child {
   margin-right: 7.5px;
@@ -55,9 +53,6 @@
   background-color: white;
 }
 
-.menu-item .background-image.Large {
-  height: 300px;
-}
 
 .menu-item .content {
   height: 90px;
@@ -92,4 +87,3 @@
   font-weight: lighter;
   font-size: 14px;
 }
-/*# sourceMappingURL=Menu.component.css.map */
