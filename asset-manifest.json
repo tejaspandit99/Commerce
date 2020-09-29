@@ -1,13 +1,13 @@
 {
   "main.css": "/commerce/static/css/main.e62b809d.chunk.css",
-  "main.js": "/commerce/static/js/main.b28dbec6.chunk.js",
-  "main.js.map": "/commerce/static/js/main.b28dbec6.chunk.js.map",
+  "main.js": "/commerce/static/js/main.d78db403.chunk.js",
+  "main.js.map": "/commerce/static/js/main.d78db403.chunk.js.map",
   "runtime~main.js": "/commerce/static/js/runtime~main.77bbd495.js",
   "runtime~main.js.map": "/commerce/static/js/runtime~main.77bbd495.js.map",
   "static/js/2.3195badf.chunk.js": "/commerce/static/js/2.3195badf.chunk.js",
   "static/js/2.3195badf.chunk.js.map": "/commerce/static/js/2.3195badf.chunk.js.map",
   "index.html": "/commerce/index.html",
-  "precache-manifest.8678c3e5f5b6be0fab1b1a3a82860aca.js": "/commerce/precache-manifest.8678c3e5f5b6be0fab1b1a3a82860aca.js",
+  "precache-manifest.9315fd5796bdcfe9bac2d013fedd7e54.js": "/commerce/precache-manifest.9315fd5796bdcfe9bac2d013fedd7e54.js",
   "service-worker.js": "/commerce/service-worker.js",
   "static/css/main.e62b809d.chunk.css.map": "/commerce/static/css/main.e62b809d.chunk.css.map"
 }
