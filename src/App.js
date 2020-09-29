@@ -8,7 +8,7 @@ import {Route} from "react-router-dom";
 function App() {
   return(
    <div>
-   <Route exact path="/" component={Homepage}></Route>
+   <Route exact path="Commerce1/" component={Homepage}></Route>
    <Route path="/hats" component={Hatspage}></Route>
    
    </div>
