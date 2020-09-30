@@ -9,7 +9,7 @@ import {Route} from "react-router-dom";
 
 const Hatspage= () => (
   <div>
-<h1 style={{color:"red"}} >Homepage 
+<h1 style={{color:"red"}} >Hats 
 </h1>
 
 </div>
