@@ -14,7 +14,7 @@ import "./directory.scss"
                 title: 'hats',
                 imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
                 id: 1,
-                link:"Commerce1/hats"
+                link:"/hats"
                 
               },
               {
