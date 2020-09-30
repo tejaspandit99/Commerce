@@ -1,5 +1,5 @@
 {
-  "main.css": "/Commerce1/static/css/main.ca404c75.chunk.css",
+  "main.css": "/Commerce1/static/css/main.81165efb.chunk.css",
   "main.js": "/Commerce1/static/js/main.a3446ca6.chunk.js",
   "main.js.map": "/Commerce1/static/js/main.a3446ca6.chunk.js.map",
   "runtime~main.js": "/Commerce1/static/js/runtime~main.0a6cc912.js",
@@ -7,7 +7,7 @@
   "static/js/2.3195badf.chunk.js": "/Commerce1/static/js/2.3195badf.chunk.js",
   "static/js/2.3195badf.chunk.js.map": "/Commerce1/static/js/2.3195badf.chunk.js.map",
   "index.html": "/Commerce1/index.html",
-  "precache-manifest.c449aced2be6260cd4bef02c3e6851cf.js": "/Commerce1/precache-manifest.c449aced2be6260cd4bef02c3e6851cf.js",
+  "precache-manifest.65415b4c82d7e8f66d9fc7bb79881837.js": "/Commerce1/precache-manifest.65415b4c82d7e8f66d9fc7bb79881837.js",
   "service-worker.js": "/Commerce1/service-worker.js",
-  "static/css/main.ca404c75.chunk.css.map": "/Commerce1/static/css/main.ca404c75.chunk.css.map"
+  "static/css/main.81165efb.chunk.css.map": "/Commerce1/static/css/main.81165efb.chunk.css.map"
 }
