@@ -5,6 +5,15 @@ import Homepage from "./Page/homepage.component";
 
 import {Route} from "react-router-dom";
 
+
+
+const Hatspage= () => (
+  <div>
+<h1 style={{color:"red"}} >Homepage 
+</h1>
+
+</div>
+);
 function App() {
   return(
    <div>
@@ -14,14 +23,6 @@ function App() {
    </div>
   )
  }
-
-const Hatspage= () => (
-  <div>
-<h1 style={{color:"red"}} >Homepage 
-</h1>
-
-</div>
-);
 
 
 
